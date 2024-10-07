@@ -1,10 +1,14 @@
 import AdditionalDetails from "./additionalDetails";
 import ProfileAnalytics from "./profileAnalytics";
-const Index = () => {
+interface AdditionalDetailsProps {
+  profileData: {};
+}
+
+const Index: React.FC<AdditionalDetailsProps> = ({ profileData }) => {
   return (
     <div>
       <ProfileAnalytics />
-      <AdditionalDetails />
+      <AdditionalDetails profileData={profileData} />
     </div>
   );
 };

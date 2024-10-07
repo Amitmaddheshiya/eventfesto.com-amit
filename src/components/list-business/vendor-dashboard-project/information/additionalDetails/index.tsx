@@ -17,7 +17,7 @@ interface AdditionalDetailsProps {
   profileData: {};
 }
 
-const Index: React.FC<AdditionalDetailsProps> = ({ profileData }) => {
+const Index: React.FC<AdditionalDetailsProps> = () => {
   const [additionalData, setAdditionalData] = useState<AdditionalData>({
     smallGatherings: "",
     parking: "",
@@ -105,7 +105,6 @@ const Index: React.FC<AdditionalDetailsProps> = ({ profileData }) => {
 
   const handleAddionSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    console.log({ profileData, additionalData });
   };
 
   return (

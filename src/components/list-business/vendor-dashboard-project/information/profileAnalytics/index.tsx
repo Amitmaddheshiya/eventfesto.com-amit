@@ -3,9 +3,6 @@ import { TbSquareRoundedPlusFilled, TbTrash } from "react-icons/tb";
 import AdditionalDetails from "../additionalDetails";
 import LocationModal from "./locationModal"; // Adjust the path as necessary
 
-interface ProfileAnalyticsProps {
-  profileData: {};
-}
 interface FormData {
   [key: string]: string;
 }
@@ -26,7 +23,7 @@ interface LocationData {
   };
 }
 
-const Index: React.FC<ProfileAnalyticsProps> = () => {
+const Index = () => {
   const analyticsData = [
     { label: "Leads", value: 0 },
     { label: "Love count", value: 0 },

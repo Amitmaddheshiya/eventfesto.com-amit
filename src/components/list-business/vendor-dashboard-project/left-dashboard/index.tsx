@@ -71,7 +71,7 @@ const Index: React.FC = () => {
   const renderComponent = () => {
     switch (selectedComponent) {
       case "information":
-        return <Information profileData={profileData} />;
+        return <Information />;
       case "projects":
         return <Projects />;
       case "menu":
@@ -85,7 +85,7 @@ const Index: React.FC = () => {
       case "google-business":
         return <GoogleBusiness />;
       default:
-        return <Information profileData={profileData} />;
+        return <Information />;
     }
   };
 
