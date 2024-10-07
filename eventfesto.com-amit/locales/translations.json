@@ -1,0 +1,291 @@
+{
+  "hin": {
+    "common": {
+      "greeting": "नमस्ते दुनिया!",
+      "description": "मेरी वेबसाइट में आपका स्वागत है।"
+    },
+    "navigation": {
+      "venues": "वेन्यू",
+      "vendors": "वेंडर्स",
+      "photos": "फोटो",
+      "real-wedding": "असली विवाह",
+      "testimonials": "प्रशंसापत्र",
+      "shops": "दुकानें",
+      "e-invites": "ई-आमंत्रण",
+      "blog": "ब्लॉग",
+      "why-eventfesto": "क्यों इवेंटफेस्टो"
+    }
+  },
+  "en": {
+    "common": {
+      "greeting": "Hello World!",
+      "description": "Welcome to my website!"
+    },
+    "navigation": {
+      "venues": "Venues",
+      "vendors": "Vendors",
+      "photos": "Photos",
+      "real-wedding": "Real Wedding",
+      "testimonials": "Testimonials",
+      "shops": "Shops",
+      "e-invites": "E-Invites",
+      "blog": "Blog",
+      "why-eventfesto": "Why EventFesto"
+    }
+  },
+  "bn": {
+    "common": {
+      "greeting": "ওহে বিশ্ব!",
+      "description": "আমার ওয়েবসাইটে আপনাকে স্বাগতম!"
+    },
+    "navigation": {
+      "venues": "স্থান",
+      "vendors": "বিক্রেতাগণ",
+      "photos": "ছবি",
+      "real-wedding": "বাস্তব বিবাহ",
+      "testimonials": "প্রশংসাপত্র",
+      "shops": "দোকানগুলি",
+      "e-invites": "ই-আমন্ত্রণ",
+      "blog": "ব্লগ",
+      "why-eventfesto": "কেন EventFesto"
+    }
+  },
+  "te": {
+    "common": {
+      "greeting": "హలో ప్రపంచం!",
+      "description": "మా వెబ్‌సైట్‌కు స్వాగతం!"
+    },
+    "navigation": {
+      "venues": "వెన్యూలు",
+      "vendors": "వెండర్లు",
+      "photos": "ఫోటోలు",
+      "real-wedding": "నిజమైన వివాహం",
+      "testimonials": "ప్రశంసాలు",
+      "shops": "షాప్‌లు",
+      "e-invites": "ఇ-ఆమంత్రణాలు",
+      "blog": "బ్లాగు",
+      "why-eventfesto": "ఎవరికీ ఇవెంట్‌ఫెస్టో"
+    }
+  },
+  "mr": {
+    "common": {
+      "greeting": "नमस्कार जग!",
+      "description": "माझ्या वेबसाइटला आपले स्वागत आहे!"
+    },
+    "navigation": {
+      "venues": "हॉटेल्स",
+      "vendors": "विक्रेते",
+      "photos": "फोटो",
+      "real-wedding": "वास्तविक विवाह",
+      "testimonials": "प्रशंसापत्रे",
+      "shops": "दुकाने",
+      "e-invites": "ई-निमंत्रण",
+      "blog": "ब्लॉग",
+      "why-eventfesto": "का EventFesto"
+    }
+  },
+  "ta": {
+    "common": {
+      "greeting": "வணக்கம் உலகம்!",
+      "description": "என் வலைத்தளத்தில் வரவேற்கிறேன்!"
+    },
+    "navigation": {
+      "venues": "பரியம்",
+      "vendors": "விற்பனையாளர்கள்",
+      "photos": "புகைப்படங்கள்",
+      "real-wedding": "உண்மையான திருமணம்",
+      "testimonials": "பரிமாற்றங்கள்",
+      "shops": "கடைகள்",
+      "e-invites": "இ-அழைப்புகள்",
+      "blog": "வலைப்பதிவு",
+      "why-eventfesto": "என்னவாய் இவெண்ட்ஃபெஸ்டோ"
+    }
+  },
+  "ur": {
+    "common": {
+      "greeting": "ہیلو دنیا!",
+      "description": "میری ویب سائٹ پر خوش آمدید!"
+    },
+    "navigation": {
+      "venues": "مقامات",
+      "vendors": "فروشندگان",
+      "photos": "تصاویر",
+      "real-wedding": "اصلی شادی",
+      "testimonials": "تعریفیں",
+      "shops": "دکانیں",
+      "e-invites": "الیکٹرانک دعوت نامے",
+      "blog": "بلاگ",
+      "why-eventfesto": "کیوں اوقات فیسٹو"
+    }
+  },
+  "gu": {
+    "common": {
+      "greeting": "હેલો વર્લ્ડ!",
+      "description": "મારા વેબસાઇટ પર આપનું સ્વાગત છે!"
+    },
+    "navigation": {
+      "venues": "સ્થળો",
+      "vendors": "વેન્ડર્સ",
+      "photos": "ફોટોઝ",
+      "real-wedding": "વાસ્તવિક લગ્ન",
+      "testimonials": "સાક્ષાત્કારો",
+      "shops": "શોપ્સ",
+      "e-invites": "ઇ-આમંત્રણો",
+      "blog": "બ્લોગ",
+      "why-eventfesto": "કેમ ઇવેન્ટફેસ્ટો"
+    }
+  },
+  "kn": {
+    "common": {
+      "greeting": "ಹಲೋ ವರ್ಲ್ಡ್!",
+      "description": "ನನ್ನ ವೆಬ್‌ಸೈಟ್‌ಗೆ ಸ್ವಾಗತ!"
+    },
+    "navigation": {
+      "venues": "ಸ್ಥಳಗಳು",
+      "vendors": "ವೆಂಡರ್‌ಗಳು",
+      "photos": "ಫೋಟೋಗಳು",
+      "real-wedding": "ನಿಜವಾದ ವೇಡಿಂಗ್",
+      "testimonials": "ಪ್ರಶಂಸಾ ಪತ್ರಗಳು",
+      "shops": "ಮಾರಾಟಗಾರಗಳು",
+      "e-invites": "ಇ-ಆಮಂತ್ರಣಗಳು",
+      "blog": "ಬ್ಲಾಗ್",
+      "why-eventfesto": "ಏವುದಾದರೂ ಈವೆಂಟ್‌ಫೆಸ್ಟೋ"
+    }
+  },
+  "or": {
+    "common": {
+      "greeting": "ନମସ୍କାର ବିଶ୍ୱରେ!",
+      "description": "ମୋ ୱେବସାଇଟରେ ସ୍ୱାଗତ!"
+    },
+    "navigation": {
+      "venues": "ଲୋକେଶନ",
+      "vendors": "ବିକ୍ରେତାଗଣ",
+      "photos": "ଫୋଟୋ",
+      "real-wedding": "ଅସଲି ବିବାହ",
+      "testimonials": "ପ୍ରଶଂସାପତ୍ରଗୁଡିକ",
+      "shops": "ଦୋକାନ",
+      "e-invites": "ଇ-ଆମନ୍ତ୍ରଣ",
+      "blog": "ବ୍ଲଗ୍",
+      "why-eventfesto": "କାହାଣି ଇଭେଣ୍ଟଫେଷ୍ଟୋ"
+    }
+  },
+  "ml": {
+    "common": {
+      "greeting": "ഹലോ ലോകം!",
+      "description": "എന്റെ വെബ്‌സൈറ്റിലേക്ക് സ്വാഗതം!"
+    },
+    "navigation": {
+      "venues": "സ്ഥലങ്ങൾ",
+      "vendors": "വിക്രേതാക്കൾ",
+      "photos": "ഫോട്ടോകൾ",
+      "real-wedding": "നിജമായ വിവാഹം",
+      "testimonials": "സ്വീകൃതികൾ",
+      "shops": "ഷോപ്പുകൾ",
+      "e-invites": "ഇ-ആമന്ത്രണങ്ങൾ",
+      "blog": "ബ്ലോഗുകൾ",
+      "why-eventfesto": "എങ്ങനെയാണ് ഇവെന്റ്‌ഫെസ്റ്റോ"
+    }
+  },
+  "pa": {
+    "common": {
+      "greeting": "ਹੈਲੋ ਵਰਲਡ!",
+      "description": "ਮੇਰੀ ਵੈਬਸਾਈਟ ਤੇ ਜੀ ਆਇਆ ਨੂੰ!"
+    },
+    "navigation": {
+      "venues": "ਥਾਨਾਂ",
+      "vendors": "ਵਿਕਰੇਤਾਰ",
+      "photos": "ਫੋਟੋਆਂ",
+      "real-wedding": "ਅਸਲੀ ਵਿਆਹ",
+      "testimonials": "ਗੌਣਾਂ",
+      "shops": "ਦੋਕਾਨਾਂ",
+      "e-invites": "ਇ-ਨਿਮਤਾਵਾਂ",
+      "blog": "ਬਲੌਗ",
+      "why-eventfesto": "ਕਿਉਂ ਇਵੈਂਟਫੈਸਟੋ"
+    }
+  },
+  "as": {
+    "common": {
+      "greeting": "নমস্কাৰ বিশ্ব!",
+      "description": "মোৰ ৱেবচাইটলৈ আদৰণি!"
+    },
+    "navigation": {
+      "venues": "অবস্থান",
+      "vendors": "বিক্ৰেতাগণ",
+      "photos": "ছবিসমূহ",
+      "real-wedding": "বাস্তব বিয়ে",
+      "testimonials": "প্রশংসা",
+      "shops": "দোকানসমূহ",
+      "e-invites": "ই-নিমন্ত্ৰণ",
+      "blog": "ব্লগ",
+      "why-eventfesto": "কেন ইভেন্টফেস্টো"
+    }
+  },
+  "mai": {
+    "common": {
+      "greeting": "नमस्ते विश्व!",
+      "description": "मेरी वेबसाइट पर आपका स्वागत है!"
+    },
+    "navigation": {
+      "venues": "स्थल",
+      "vendors": "विक्रेता",
+      "photos": "फ़ोटो",
+      "real-wedding": "असली शादी",
+      "testimonials": "प्रशंसा पत्र",
+      "shops": "दुकानें",
+      "e-invites": "ई-निमंत्रण",
+      "blog": "ब्लॉग",
+      "why-eventfesto": "क्यों इवेंटफेस्टो"
+    }
+  },
+  "ks": {
+    "common": {
+      "greeting": "ہیلو دنیا!",
+      "description": "میری ویب سائٹ پر خوش آمدید!"
+    },
+    "navigation": {
+      "venues": "مقامات",
+      "vendors": "وینڈرز",
+      "photos": "تصاویر",
+      "real-wedding": "اصلی شادی",
+      "testimonials": "تعریفات",
+      "shops": "دکانیں",
+      "e-invites": "الیکٹرانک دعوت نامے",
+      "blog": "بلاگ",
+      "why-eventfesto": "کیوں اوقات فیسٹو"
+    }
+  },
+  "ne": {
+    "common": {
+      "greeting": "नमस्ते संसार!",
+      "description": "मेरो वेबसाइटमा स्वागत छ!"
+    },
+    "navigation": {
+      "venues": "स्थलहरू",
+      "vendors": "विक्रेताहरू",
+      "photos": "फोटोहरू",
+      "real-wedding": "वास्तविक विवाह",
+      "testimonials": "प्रशंसापत्रहरू",
+      "shops": "दुकानहरू",
+      "e-invites": "इ-निमन्त्रणहरू",
+      "blog": "ब्लग",
+      "why-eventfesto": "किन इवेन्टफेस्टो"
+    }
+  },
+  "sd": {
+    "common": {
+      "greeting": "هيلو دنيا!",
+      "description": "ميري ويب سائيٽ تي خوش آمديد!"
+    },
+    "navigation": {
+      "venues": "سائيٽس",
+      "vendors": "وينڊرز",
+      "photos": "عکسون",
+      "real-wedding": "حقيقي شادي",
+      "testimonials": "تعريفون",
+      "shops": "ڪرڪاڻون",
+      "e-invites": "اليڪٽرانڪ انوائٽس",
+      "blog": "بلاگ",
+      "why-eventfesto": "ڪيو ايونٽ فيسٽو"
+    }
+  }
+}
